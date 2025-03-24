@@ -1,0 +1,27 @@
+{
+  "name": "smartinventory",
+  "version": "1.0.0",
+  "description": "smart inventory system",
+  "main": "server.js",
+  "scripts": {
+    "start:build": "tsc --watch",
+    "start:run": "nodemon ./dist/server.js",
+    "start": "concurrently npm:start:*"
+  },
+  "author": "Phelix Otieno",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mssql": "^11.0.1",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/mssql": "^9.1.7"
+  }
+}
