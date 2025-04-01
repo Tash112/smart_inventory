@@ -1,0 +1,22 @@
+[2025-03-28T13:08:02.013Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:02.016Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.490Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.500Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.521Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.526Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.296Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.297Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.300Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.300Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T17:25:24.401Z] ERROR: ❌ Database connection failed: The "config.server" property is required and must be of type string.
+[2025-03-28T17:25:24.407Z] ERROR: ❌ Failed to connect to the database: The "config.server" property is required and must be of type string.
+[2025-03-28T17:28:29.681Z] ERROR: ❌ Database connection failed: The "config.server" property is required and must be of type string.
+[2025-03-28T17:28:29.690Z] ERROR: ❌ Failed to connect to the database: The "config.server" property is required and must be of type string.
+[2025-03-29T16:05:37.079Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:05:37.083Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:06:28.543Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:06:28.568Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:08:07.529Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:08:07.533Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:09:42.585Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:09:42.588Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms

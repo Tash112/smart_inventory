@@ -1,0 +1,198 @@
+[2025-03-28T11:40:10.974Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:41:15.738Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:47:25.866Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:50:27.033Z] INFO: ✅ Database connected successfully
+[2025-03-28T11:50:27.037Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:52:01.581Z] INFO: ✅ Database connected successfully
+[2025-03-28T11:52:01.586Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:58:03.937Z] INFO: ✅ Database connected successfully
+[2025-03-28T11:58:03.942Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:58:06.539Z] INFO: ✅ Database connected successfully
+[2025-03-28T11:58:06.544Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T11:58:19.555Z] INFO: ✅ Database connected successfully
+[2025-03-28T11:58:19.561Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:28:10.631Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:28:10.635Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:28:13.179Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:28:13.184Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:41:12.965Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:41:12.971Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:43:49.295Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:43:49.300Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:46:11.457Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:46:11.465Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:47:34.155Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:47:34.160Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:48:56.607Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:48:56.613Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:50:11.874Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:50:11.882Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:50:42.888Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:50:42.893Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:51:44.561Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:51:44.569Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:52:13.731Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:52:13.737Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:58:23.894Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:58:23.899Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T12:58:37.793Z] INFO: ✅ Database connected successfully
+[2025-03-28T12:58:37.804Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:05:16.593Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:05:16.601Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:05:20.607Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:05:20.614Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:05:27.266Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:05:27.271Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:08:02.013Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:02.016Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.490Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.500Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.521Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:27.526Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:08:56.534Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:08:56.540Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:08:57.514Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:12:41.296Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.297Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.300Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:12:41.300Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-28T13:13:14.181Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:13:14.180Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:13:14.189Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:13:28.930Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:13:28.930Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:13:28.936Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:14:32.961Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:14:32.967Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:14:37.004Z] INFO: ✅ Database connected successfully
+[2025-03-28T13:14:37.009Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T13:14:37.054Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:13.162Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:13.167Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:13.167Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:18:36.743Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:36.752Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:36.757Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:18:50.421Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:50.426Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:18:50.464Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:58.880Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:18:58.890Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:18:58.971Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:00.429Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:00.418Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:00.436Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:19:01.899Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:01.912Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:01.904Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:19:04.936Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:04.928Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:04.942Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:19:58.700Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:58.695Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:19:58.705Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:22:06.604Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:22:06.596Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:22:06.611Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:22:19.674Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:22:19.663Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:22:19.679Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:23:33.936Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:23:33.942Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:24:46.790Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:24:46.796Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:24:49.982Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:24:49.987Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:27:30.500Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:27:30.506Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T14:30:11.854Z] INFO: ✅ Database connected successfully
+[2025-03-28T14:30:11.863Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T16:56:06.702Z] INFO: ✅ Database connected successfully
+[2025-03-28T16:56:06.709Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T16:56:10.208Z] INFO: ✅ Database connected successfully
+[2025-03-28T16:56:10.214Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T16:58:41.344Z] INFO: ✅ Database connected successfully
+[2025-03-28T16:58:41.349Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:01:55.296Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:01:55.304Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:10:35.982Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:10:35.987Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:14:15.229Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:14:15.234Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:14:18.201Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:14:18.206Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:14:43.236Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:14:43.243Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:15:41.566Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:15:41.575Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:15:44.442Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:15:44.447Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:17:17.348Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:17:17.355Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:17:19.261Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:17:19.270Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:17:23.753Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:17:23.761Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:17:29.595Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:17:29.601Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:17:32.634Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:17:32.641Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:18:39.639Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:18:39.645Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:19:07.434Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:19:07.439Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:19:27.982Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:19:27.992Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:19:47.491Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:19:47.497Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:20:40.958Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:20:40.963Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:25:24.401Z] ERROR: ❌ Database connection failed: The "config.server" property is required and must be of type string.
+[2025-03-28T17:25:24.407Z] ERROR: ❌ Failed to connect to the database: The "config.server" property is required and must be of type string.
+[2025-03-28T17:26:38.296Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:26:38.301Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:28:01.133Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:28:01.141Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:28:10.317Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:28:10.326Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:28:29.681Z] ERROR: ❌ Database connection failed: The "config.server" property is required and must be of type string.
+[2025-03-28T17:28:29.690Z] ERROR: ❌ Failed to connect to the database: The "config.server" property is required and must be of type string.
+[2025-03-28T17:28:52.327Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:28:52.335Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:29:02.318Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:29:02.323Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:29:05.579Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:29:05.585Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:29:25.165Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:29:30.280Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:29:30.287Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:29:30.323Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:30:26.195Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:30:26.186Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:30:26.201Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:31:36.813Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:31:36.820Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:31:40.103Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:31:40.109Z] INFO: ✅ Server is running on port 5000
+[2025-03-28T17:32:31.680Z] INFO: ✅ Database connected successfully
+[2025-03-28T17:32:31.685Z] INFO: ✅ Server is running on port 5000
+[2025-03-29T16:05:37.079Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:05:37.083Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:06:28.543Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:06:28.568Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:08:07.529Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:08:07.533Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:09:42.585Z] ERROR: ❌ Database connection failed: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:09:42.588Z] ERROR: ❌ Failed to connect to the database: Failed to connect to DESKTOP-F4INGN1\SQLEXPRESS in 15000ms
+[2025-03-29T16:29:54.543Z] INFO: ✅ Database connected successfully
+[2025-03-29T16:29:54.549Z] INFO: ✅ Server is running on port 5000
+[2025-03-29T16:29:57.002Z] INFO: ✅ Database connected successfully
+[2025-03-29T16:29:57.008Z] INFO: ✅ Server is running on port 5000
+[2025-03-29T16:49:26.804Z] INFO: ✅ Database connected successfully
+[2025-03-29T16:49:26.810Z] INFO: ✅ Server is running on port 5000
+[2025-03-31T15:34:27.446Z] INFO: ✅ Database connected successfully
+[2025-03-31T15:34:27.451Z] INFO: ✅ Server is running on port 5000
+[2025-03-31T15:34:30.163Z] INFO: ✅ Database connected successfully
+[2025-03-31T15:34:30.170Z] INFO: ✅ Server is running on port 5000
+[2025-03-31T16:01:08.761Z] INFO: ✅ Database connected successfully
+[2025-03-31T16:01:08.766Z] INFO: ✅ Server is running on port 5000

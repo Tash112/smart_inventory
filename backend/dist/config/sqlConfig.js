@@ -7,11 +7,14 @@ exports.sqlConfig = void 0;
 const mssql_1 = __importDefault(require("mssql"));
 const dotenv_1 = __importDefault(require("dotenv"));
 dotenv_1.default.config();
+console.log("DB_SERVER:", process.env.DB_SERVER); // Added for debugging
+dotenv_1.default.config();
+console.log("DB_SERVER:", process.env.DB_SERVER); // Added for debugging
 exports.sqlConfig = {
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
     database: process.env.DB_NAME,
-    server: process.env.DB_HOST,
+    server: process.env.DB_SERVER, // Corrected line
     pool: {
         max: 10,
         min: 0,
